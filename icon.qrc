@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="help">icons/bangzhu.png</file>
+        <file alias="save">icons/baocun.png</file>
+        <file alias="open">icons/dakai.png</file>
+        <file alias="debug">icons/debug.png</file>
+        <file alias="stack">icons/duizhantu.png</file>
+        <file alias="format">icons/geshishua.png</file>
+        <file alias="about">icons/guanyu.png</file>
+        <file alias="check">icons/jiancha.png</file>
+        <file alias="stepi">icons/step-into.png</file>
+        <file alias="step">icons/step-out.png</file>
+        <file alias="stepo">icons/step-over.png</file>
+        <file alias="exit">icons/tuichu.png</file>
+        <file alias="show">icons/xianshi.png</file>
+        <file alias="new">icons/xinjian.png</file>
+        <file alias="over">icons/jieshu.png</file>
+        <file alias="reload">icons/reload.png</file>
+    </qresource>
+</RCC>
