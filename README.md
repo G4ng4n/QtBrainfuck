@@ -25,3 +25,7 @@
 - `-rw-r--r-- mainwindow.h`
 - `-rw-r--r-- mainwindow.ui`
 - `-rw-r--r-- README.md`
+
+## BUGS
+
+- The stack graph cannot reflect the running state of the cycle structure correctly. In fact, the X pos of graph should depend on the steps, not the size of code. I've overlooked that.
