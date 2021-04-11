@@ -4,7 +4,8 @@
 
 ## About
 
-- Just class assignment.
+- This repo won't be updated any more, which means the critical bugs won't be fixed. It's hard to review my noob code :(
+- Just assignment.
 - This program need to be recoded, since all of the designs(classes, layouts, widgets) are meet minimum requirements.
 - The naming rule is totally a mass, since I nderestimated the paoject's complexity.
 
